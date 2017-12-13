@@ -6,3 +6,7 @@
 1、兼容chrome、FF
 
 2、点击 Download Spirit 之前，要先点击 Make Spirit ，左边会显示预览效果
+
+技术面：
+
+canvas、拖放事件、File API
