@@ -10,5 +10,3 @@
 技术面：
 
 canvas、拖放事件、File API
-
-# [预览地址](javascript:let urlArr = window.location.href.split('/');urlArr.push('index.html');urlArr.splice(urlArr.findIndex(v => v === 'tree'), 2);let githubIndex = urlArr.findIndex(v => v === 'github.com');urlArr.splice(githubIndex, 1);urlArr[githubIndex] = urlArr[githubIndex] + '.github.io';window.open(urlArr.join('/'));)
