@@ -10,4 +10,4 @@
 
 ## Note:
 
-Compatible with chrome and FireFox
+Compatible with Chrome and FireFox
